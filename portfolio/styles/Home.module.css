@@ -143,3 +143,54 @@
   width: 3em;
   height: 95vh;
 }
+
+/* hero */
+.hero {
+  background-color: #0a192f;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: #a8b2d1;
+  padding-top: 20vh;
+  padding-left: 20vw;
+}
+
+.bigheading {
+  font-size: 5vw;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.name {
+  font-size: 5vw;
+  margin: 0;
+  line-height: 1.1;
+  color: #e6f1ff;
+  flex: 0 0 0;
+}
+
+.smhead {
+  font-size: 1.2vw;
+  margin: 0;
+  font-weight: 400;
+}
+
+.desc {
+  padding-top: 2vh;
+  font-size: 18px;
+  line-height: 1.3;
+  color: #a8b2d1;
+}
+
+.rsbtn {
+  margin-top: 20px;
+  border: "2px";
+  width: 100px;
+  height: 50px;
+  background-color: #0a192f;
+  color: #e6f1ff;
+  border-radius: 5px;
+  border-color: #a8b2d1;
+  font-size: 18px;
+  font-weight: 400;
+}
