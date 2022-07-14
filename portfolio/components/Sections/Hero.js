@@ -6,7 +6,7 @@ const Hero = () => {
     <>
       <Box className={styles.hero}>
         <h1 className={styles.smhead}>Hi, my name is</h1>
-        <h2 className={styles.name}>Sahil Shetty</h2>
+        <h2 className={styles.heroname}>Sahil Shetty</h2>
         <h3 className={styles.bigheading}>I build things for the web.</h3>
         <p className={styles.desc}>
           I'm a second year I.T student at D.J Sanghavi College of Engineering.

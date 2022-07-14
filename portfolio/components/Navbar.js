@@ -9,7 +9,7 @@ const Navbar = () => {
           justify="flex-start"
           align="center"
           paddingLeft={4}
-          paddingTop={20}
+          paddingTop={10}
         >
           <Box className={styles.name}>SAHIL SHETTY</Box>
           <Box className={styles.links}>
