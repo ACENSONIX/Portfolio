@@ -109,3 +109,13 @@
   max-width: 50ch;
   font-size: 18px;
 }
+
+/* Skills */
+.skills {
+  list-style-type: none;
+}
+
+.icons {
+  width: 50px;
+  height: 50px;
+}

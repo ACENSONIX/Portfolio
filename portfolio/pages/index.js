@@ -4,6 +4,8 @@ import Side from "../components/Side";
 import styles from "../styles/Home.module.css";
 import { Flex, Box } from "@chakra-ui/react";
 import About from "../components/Sections/About";
+import Skills from "../components/Sections/skills";
+import Projects from "../components/Sections/Projects";
 
 export default function Home() {
   return (
@@ -11,8 +13,10 @@ export default function Home() {
       {/* <Navbar />
 
       <Side />
-      <Hero /> */}
+      <Hero />
       <About />
+      <Skills /> */}
+      <Projects />
     </div>
   );
 }
